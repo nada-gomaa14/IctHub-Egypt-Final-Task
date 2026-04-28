@@ -12,7 +12,7 @@ class AuthCubit extends Cubit<AuthStates> {
   bool isObscure = true;
   Dio dio = Dio(
     BaseOptions(
-      baseUrl: 'https://rzbxwxguxqwtsnsbymbq.supabase.co/auth/v1/',
+      baseUrl: 'https://ntwfvadrhdtsbzyiwmbm.supabase.co/auth/v1/',
       headers: {
         'apikey' : 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im50d2Z2YWRyaGR0c2J6eWl3bWJtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzczNzQ1OTYsImV4cCI6MjA5Mjk1MDU5Nn0.WFunSD0R5nfSnpF_KOh5wAeSqWEgg3QCQC6PcjEisAU'
       }
