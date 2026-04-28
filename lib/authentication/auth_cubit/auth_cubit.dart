@@ -14,7 +14,7 @@ class AuthCubit extends Cubit<AuthStates> {
     BaseOptions(
       baseUrl: 'https://rzbxwxguxqwtsnsbymbq.supabase.co/auth/v1/',
       headers: {
-        'apikey' : 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ6Ynh3eGd1eHF3dHNuc2J5bWJxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzkxMjk4MDYsImV4cCI6MjA1NDcwNTgwNn0.rcsslQjTdbQ2h5sA7phWLK6hgM0yiT9xH5NGWbJLYF8'
+        'apikey' : 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im50d2Z2YWRyaGR0c2J6eWl3bWJtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzczNzQ1OTYsImV4cCI6MjA5Mjk1MDU5Nn0.WFunSD0R5nfSnpF_KOh5wAeSqWEgg3QCQC6PcjEisAU'
       }
     )
   );
